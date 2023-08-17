@@ -8,9 +8,9 @@
   
     <!--script to redirect to another webpage-->
     <script>
-        function myFunc() {
+        //function myFunc() {
             window.location.href = "https://www.unionize.in/";
-        }
+        //}
     </script>
 </body>
 </html>
